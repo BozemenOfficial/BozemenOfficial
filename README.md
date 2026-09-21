@@ -1,16 +1,20 @@
-## Hi there 👋
+# Эта «штука» находится в процессе строительства... 👨‍🎨
 
-<!--
-**BozemenOfficial/BozemenOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mykola 👋
 
-Here are some ideas to get you started:
+### Front-end developer in progress 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning everything and remembering half of it
+- 🐛 Creating bugs so I can fix them later
+- 🤔 Looking for help with finding more time in a single day
+- 📫 Find me on [Telegram](https://t.me/Life_Boze)
+- 🏔️ Reaching new heights — in progress
+
+## My stack
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
+    alt="HTML, CSS, JavaScript, Git, GitHub, VS Code"
+  />
+</p>
