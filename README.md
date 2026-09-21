@@ -1,6 +1,6 @@
 # Эта «штука» находится в процессе строительства... 👨‍🎨
 
-# Hi there, I'm Mykola 👋
+### Hi there, I'm Mykola 👋
 
 ### Front-end developer in progress 🚀
 
@@ -10,7 +10,7 @@
 - 📫 Find me on [Telegram](https://t.me/Life_Boze)
 - 🏔️ Reaching new heights — in progress
 
-## My stack
+### My stack
 
 <p>
   <img
