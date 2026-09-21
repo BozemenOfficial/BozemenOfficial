@@ -14,7 +14,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
-    alt="HTML, CSS, JavaScript, Git, GitHub, VS Code"
+    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,ubuntu"
+    alt="HTML, CSS, JavaScript, Git, GitHub, VS Code, Ubuntu"
   />
 </p>
