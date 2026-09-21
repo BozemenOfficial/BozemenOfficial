@@ -1,4 +1,4 @@
-# Эта «штука» находится в процессе строительства... 👨‍🎨
+# This «thing» is under construction... 👨‍🎨
 
 ### Hi there, I'm Mykola 👋
 
