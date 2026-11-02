@@ -14,7 +14,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,vite,threejs,nodejs,sqlite,cloudflare,python,git,github,githubactions,vscode,ubuntu&perline=8"
-    alt="HTML, CSS, JavaScript, React, Vite, Three.js, Node.js, SQLite, Cloudflare, Python, Git, GitHub, GitHub Actions, VS Code, Ubuntu"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,threejs,nodejs,sqlite,cloudflare,python,npm,git,github,githubactions,vscode,ubuntu&perline=8"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Three.js, Node.js, SQLite, Cloudflare, Python, npm, Git, GitHub, GitHub Actions, VS Code, Ubuntu"
   />
 </p>
