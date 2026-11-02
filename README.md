@@ -10,11 +10,11 @@
 - 📫 Find me on [Telegram](https://t.me/Life_Boze)
 - 🏔️ Reaching new heights — in progress
 
-### My stack
+### Мой стек
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,ubuntu"
-    alt="HTML, CSS, JavaScript, Git, GitHub, VS Code, Ubuntu"
+    src="https://skillicons.dev/icons?i=html,css,js,react,vite,threejs,nodejs,sqlite,cloudflare,python,git,github,githubactions,vscode,ubuntu&perline=8"
+    alt="HTML, CSS, JavaScript, React, Vite, Three.js, Node.js, SQLite, Cloudflare, Python, Git, GitHub, GitHub Actions, VS Code, Ubuntu"
   />
 </p>
