@@ -4,10 +4,10 @@
 <style>
 .track { stroke-dasharray:110 680; animation:travel 12s linear infinite; }
 .track.second { animation-delay:-6s; animation-duration:16s; }
-.cursor { animation:pulse 3s ease-in-out infinite; }
+
 @keyframes travel { to { stroke-dashoffset:-790; } }
-@keyframes pulse { 0%,100% { opacity:.3; } 50% { opacity:1; } }
-@media(prefers-reduced-motion:reduce) { .track,.cursor { animation:none; } }
+
+@media(prefers-reduced-motion:reduce) { .track, }
 </style>
 <rect width="1200" height="340" fill="#05090d"/>
 <text x="36" y="43" fill="#748393" font-family="monospace" font-size="13" letter-spacing="1">BOZEMEN / PORTFOLIO</text>
@@ -23,6 +23,5 @@
 <rect x="240" y="142" width="720" height="108" fill="#05090d"/>
 <text x="600" y="207" text-anchor="middle" fill="#e5edf5" font-family="Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="-3">BozemenOfficial</text>
 <text x="600" y="250" text-anchor="middle" fill="#b8c6d4" font-family="Arial, sans-serif" font-size="21">Full Stack · AI Engineer</text>
-<rect class="cursor" x="920" y="159" width="5" height="51" rx="1" fill="#69b6df"/>
 <text x="600" y="308" text-anchor="middle" fill="#657789" font-family="monospace" font-size="12" letter-spacing="3">INTERFACES / LOGIC / DATA</text>
 </svg>
