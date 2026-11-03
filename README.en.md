@@ -32,7 +32,7 @@ A website introducing me, my skills and my work. The repository includes Russian
 
 Working on Traflume, gradually developing the project with attention to the interface, small details and ease of use.
 
-Alongside that, I’m learning Docker and Node.js: exploring server-side development, running applications in containers and setting up a consistent development environment. I aim to put what I learn into practice and better understand the whole journey from writing code to running an application.
+Alongside that, I’m learning Docker: exploring server-side development, running applications in containers and setting up a consistent development environment. I aim to put what I learn into practice and better understand the whole journey from writing code to running an application.
 
 ## 💬 Get in touch
 
