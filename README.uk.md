@@ -1,18 +1,12 @@
 <p align="center">
-  <a href="https://github.com/BozemenOfficial/BozemenOfficial/blob/main/README.md">Русский</a> · <a href="https://github.com/BozemenOfficial/BozemenOfficial/blob/main/README.uk.md">Українська</a> · <a href="https://github.com/BozemenOfficial/BozemenOfficial/blob/main/README.en.md">English</a>
+  <img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/main/assets/profile-header.svg" width="100%" alt="BozemenOfficial — Mykola · Web developer" />
 </p>
-
-<h1 align="center">Привіт, я Mykola 👋</h1>
-<p align="center"><b>BozemenOfficial · Розвиваюся у фронтенді та створюю вебпроєкти</b></p>
-<p align="center">Інтерфейси, логіка застосунків і робота з даними — від навчальних завдань до власного full-stack проєкту.</p>
-
----
-
-## 🧰 Мій стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
+  <a href="https://t.me/Life_Boze"><img src="https://img.shields.io/badge/Telegram-%40Life__Boze-2388c9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram — @Life_Boze" /></a>
 </p>
+
+<br />
 
 ## ✨ Мої проєкти
 
