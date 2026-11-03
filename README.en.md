@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/Life_Boze"><img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/main/assets/profile-header.svg" width="100%" alt="Bozemen — Web Developer · Full Stack · Telegram @Life_Boze" /></a>
+  <a href="https://t.me/Life_Boze"><img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/main/assets/profile-header.svg" width="100%" alt="Bozemen — Full Stack · AI Engineer · Telegram @Life_Boze" /></a>
 </p>
 
 <p align="center">
