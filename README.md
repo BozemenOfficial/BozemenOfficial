@@ -12,7 +12,7 @@
 
 ### 🖥️ [Portfolio — персональный сайт](https://github.com/BozemenOfficial/portfolio)
 
-Сайт для знакомства со мной, моими навыками и работами. В репозитории есть версии интерфейса на русском, украинском и английском, адаптивная вёрстка и анимации.
+Сайт для знакомства со мной, моими навыками и работами.
 
 [![Предпросмотр портфолио](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
 
