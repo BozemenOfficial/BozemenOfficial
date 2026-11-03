@@ -22,8 +22,15 @@ A website introducing me, my skills and my work. The repository includes Russian
 [Open the repository →](https://github.com/BozemenOfficial/portfolio)
 
 
+## 🧰 My stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
+</p>
+
 ## 🌱 Current focus
 
+Working on Traflume and learning to work with Docker and Node.js.
 
 ## 💬 Get in touch
 
