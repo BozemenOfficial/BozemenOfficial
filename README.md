@@ -21,8 +21,15 @@
 [Открыть репозиторий →](https://github.com/BozemenOfficial/portfolio)
 
 
+## 🧰 Мой стек
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
+</p>
+
 ## 🌱 Сейчас в фокусе
 
+Работаю над Traflume и изучаю работу с Docker и Node.js.
 
 ## 💬 Связаться
 
