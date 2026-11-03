@@ -6,6 +6,10 @@
   <a href="https://t.me/Life_Boze"><img src="https://img.shields.io/badge/Telegram-%40Life__Boze-2388c9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram — @Life_Boze" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/BozemenOfficial/BozemenOfficial/blob/main/README.md">Русский</a> · <strong>Українська</strong> · <a href="https://github.com/BozemenOfficial/BozemenOfficial/blob/main/README.en.md">English</a>
+</p>
+
 <br />
 
 ## ✨ Мої проєкти
