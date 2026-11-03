@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/Life_Boze"><img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/90f8cff200b2f6bd0b113f733ae3d9bc9df3553f/assets/profile-header.svg" width="100%" alt="БоземенОффициал — Full Stack · AI Engineer · Telegram @Life_Boze" /></a>
+  <a href="https://t.me/Life_Boze"><img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/ca19132f1b20756a74f43d015f65033814956416/assets/profile-header.svg" width="100%" alt="BozemenOfficial — Full Stack · AI Engineer · Telegram @Life_Boze" /></a>
 </p>
 
 <p align="center">
