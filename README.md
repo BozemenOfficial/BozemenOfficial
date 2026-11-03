@@ -14,7 +14,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,ts,react,nodejs,github,npm,python,sqlite,vscode&perline=8"
-    alt="HTML, CSS, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode&perline=8"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code"
   />
 </p>
