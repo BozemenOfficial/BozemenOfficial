@@ -16,6 +16,19 @@
 
 ## ✨ Мої проєкти
 
+### 🖥️ [Portfolio — персональний сайт](https://github.com/BozemenOfficial/portfolio)
+
+Сайт для знайомства зі мною, моїми навичками та роботами. У репозиторії є версії інтерфейсу українською, російською й англійською, адаптивна верстка та анімації.
+
+[![Попередній перегляд портфоліо](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
+
+**Приклад сценарію:** відвідувач обирає мову, знайомиться з проєктом NovaShop і переходить до вихідного коду або контактів.
+
+**Що демонструє:** React, TypeScript, CSS, організацію контенту та багатомовний інтерфейс.
+
+[Відкрити репозиторій →](https://github.com/BozemenOfficial/portfolio)
+
+
 ### 🛒 [NovaShop — інтернет-магазин](https://github.com/BozemenOfficial/novashop)
 
 Особистий full-stack проєкт: шлях покупця від каталогу до оформлення замовлення, історія покупок та інструменти адміністратора.
@@ -33,19 +46,6 @@
 **Що демонструє:** React, TypeScript, SQLite, адаптивний CSS, клієнтський стан і взаємодію із сервером. Особистий проєкт для портфоліо.
 
 [Переглянути код та інструкцію запуску →](https://github.com/BozemenOfficial/novashop#readme)
-
-### 🖥️ [Portfolio — персональний сайт](https://github.com/BozemenOfficial/portfolio)
-
-Сайт для знайомства зі мною, моїми навичками та роботами. У репозиторії є версії інтерфейсу українською, російською й англійською, адаптивна верстка та анімації.
-
-[![Попередній перегляд портфоліо](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
-
-**Приклад сценарію:** відвідувач обирає мову, знайомиться з проєктом NovaShop і переходить до вихідного коду або контактів.
-
-**Що демонструє:** React, TypeScript, CSS, організацію контенту та багатомовний інтерфейс.
-
-[Відкрити репозиторій →](https://github.com/BozemenOfficial/portfolio)
-
 ## 🌱 Зараз у фокусі
 
 Розвиваюся як front-end розробник: практикую верстку та JavaScript, працюю з React і TypeScript. NovaShop і персональний сайт показують мій досвід в інтерфейсах та повноцінних вебзастосунках.
