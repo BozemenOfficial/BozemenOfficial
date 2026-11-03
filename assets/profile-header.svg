@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">БоземенОффициал — Full Stack · AI Engineer</title>
+<title id="title">BozemenOfficial — Full Stack · AI Engineer</title>
 <desc id="desc">Personal portfolio of Bozemen. Subtle animated blue lines behind the name.</desc>
 <style>
 .track { stroke-dasharray:110 680; animation:travel 12s linear infinite; }
@@ -21,7 +21,7 @@
 <path class="track second" d="M1200 75H970L890 155H310L230 75H0"/>
 </g>
 <rect x="240" y="142" width="720" height="108" fill="#05090d"/>
-<text x="600" y="207" text-anchor="middle" fill="#e5edf5" font-family="Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="-3">БоземенОффициал</text>
+<text x="600" y="207" text-anchor="middle" fill="#e5edf5" font-family="Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="-3">BozemenOfficial</text>
 <text x="600" y="250" text-anchor="middle" fill="#b8c6d4" font-family="Arial, sans-serif" font-size="21">Full Stack · AI Engineer</text>
 <rect class="cursor" x="920" y="159" width="5" height="51" rx="1" fill="#69b6df"/>
 <text x="600" y="308" text-anchor="middle" fill="#657789" font-family="monospace" font-size="12" letter-spacing="3">INTERFACES / LOGIC / DATA</text>
