@@ -2,6 +2,10 @@
   <a href="https://t.me/Life_Boze"><img src="https://raw.githubusercontent.com/BozemenOfficial/BozemenOfficial/main/assets/profile-header.svg" width="100%" alt="Bozemen — Web Developer · Full Stack · Telegram @Life_Boze" /></a>
 </p>
 
+<p align="center">
+  <a href="https://t.me/Life_Boze"><img src="https://img.shields.io/badge/Telegram-%40Life__Boze-2388c9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram — @Life_Boze" /></a>
+</p>
+
 <br />
 
 ## ✨ Мої проєкти
