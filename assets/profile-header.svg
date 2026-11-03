@@ -12,15 +12,14 @@
 <rect width="1200" height="340" fill="#05090d"/>
 <text x="36" y="43" fill="#748393" font-family="monospace" font-size="13" letter-spacing="1">BOZEMEN / PORTFOLIO</text>
 <g fill="none" stroke="#142636" stroke-width="1">
-<path d="M0 240H225L335 130H865L975 240H1200"/>
-<path d="M0 270H205L345 100H855L995 270H1200"/>
-<path d="M0 75H230L310 155H890L970 75H1200"/>
+<path d="M0 240H130L270 88H930L1070 240H1200"/>
+<path d="M0 270H150L290 108H910L1050 270H1200"/>
+<path d="M0 75H140L300 286H900L1060 75H1200"/>
 </g>
 <g fill="none" stroke="#438eb7" stroke-width="1.5" opacity=".65">
-<path class="track" d="M0 240H225L335 130H865L975 240H1200"/>
-<path class="track second" d="M1200 75H970L890 155H310L230 75H0"/>
+<path class="track" d="M0 240H130L270 88H930L1070 240H1200"/>
+<path class="track second" d="M1200 75H1060L900 286H300L140 75H0"/>
 </g>
-<rect x="240" y="142" width="720" height="108" fill="#05090d"/>
 <text x="600" y="207" text-anchor="middle" fill="#e5edf5" font-family="Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="-3">BozemenOfficial</text>
 <text x="600" y="250" text-anchor="middle" fill="#b8c6d4" font-family="Arial, sans-serif" font-size="21">Full Stack · AI Engineer</text>
 <text x="600" y="308" text-anchor="middle" fill="#657789" font-family="monospace" font-size="12" letter-spacing="3">INTERFACES / LOGIC / DATA</text>
