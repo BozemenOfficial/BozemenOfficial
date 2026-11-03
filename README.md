@@ -21,9 +21,9 @@
 [Открыть репозиторий →](https://github.com/BozemenOfficial/portfolio)
 
 
-## 🧰 Мой стек
+<h2 align="center">🧰 Мой стек</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
 </p>
 
