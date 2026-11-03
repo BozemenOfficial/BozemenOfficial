@@ -22,9 +22,9 @@ A website introducing me, my skills and my work. The repository includes Russian
 [Open the repository →](https://github.com/BozemenOfficial/portfolio)
 
 
-## 🧰 My stack
+<h2 align="center">🧰 My stack</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
 </p>
 
