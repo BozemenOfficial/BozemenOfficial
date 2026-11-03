@@ -16,6 +16,19 @@
 
 ## ✨ My projects
 
+### 🖥️ [Portfolio — personal website](https://github.com/BozemenOfficial/portfolio)
+
+A website introducing me, my skills and my work. The repository includes Russian, Ukrainian and English interfaces, responsive layouts and animations.
+
+[![Portfolio preview](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
+
+**Example flow:** a visitor selects a language, explores the NovaShop project and follows a link to the source code or contact details.
+
+**Demonstrates:** React, TypeScript, CSS, content organization and a multilingual interface.
+
+[Open the repository →](https://github.com/BozemenOfficial/portfolio)
+
+
 ### 🛒 [NovaShop — ecommerce application](https://github.com/BozemenOfficial/novashop)
 
 A personal full-stack project covering the shopping journey from browsing a catalog to checkout, order history and admin tools.
@@ -33,19 +46,6 @@ A personal full-stack project covering the shopping journey from browsing a cata
 **Demonstrates:** React, TypeScript, SQLite, responsive CSS, client state and server interaction. A personal portfolio project.
 
 [Explore the code and setup guide →](https://github.com/BozemenOfficial/novashop#readme)
-
-### 🖥️ [Portfolio — personal website](https://github.com/BozemenOfficial/portfolio)
-
-A website introducing me, my skills and my work. The repository includes Russian, Ukrainian and English interfaces, responsive layouts and animations.
-
-[![Portfolio preview](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
-
-**Example flow:** a visitor selects a language, explores the NovaShop project and follows a link to the source code or contact details.
-
-**Demonstrates:** React, TypeScript, CSS, content organization and a multilingual interface.
-
-[Open the repository →](https://github.com/BozemenOfficial/portfolio)
-
 ## 🌱 Current focus
 
 Growing as a front-end developer: practicing layouts and JavaScript, and working with React and TypeScript. NovaShop and my personal website showcase my experience with interfaces and full-stack web applications.
