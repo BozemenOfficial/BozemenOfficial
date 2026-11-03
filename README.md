@@ -16,6 +16,19 @@
 
 ## ✨ Мои проекты
 
+### 🖥️ [Portfolio — персональный сайт](https://github.com/BozemenOfficial/portfolio)
+
+Сайт для знакомства со мной, моими навыками и работами. В репозитории есть версии интерфейса на русском, украинском и английском, адаптивная вёрстка и анимации.
+
+[![Предпросмотр портфолио](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
+
+**Пример сценария:** посетитель выбирает язык, знакомится с проектом NovaShop и переходит к исходному коду или контактам.
+
+**Что демонстрирует:** React, TypeScript, CSS, организация контента и многоязычный интерфейс.
+
+[Открыть репозиторий →](https://github.com/BozemenOfficial/portfolio)
+
+
 ### 🛒 [NovaShop — интернет-магазин](https://github.com/BozemenOfficial/novashop)
 
 Личный full-stack проект: путь покупателя от каталога до оформления заказа, история покупок и инструменты администратора.
@@ -33,19 +46,6 @@
 **Что демонстрирует:** React, TypeScript, SQLite, адаптивный CSS, клиентское состояние и взаимодействие с сервером. Личный проект для портфолио.
 
 [Посмотреть код и инструкцию запуска →](https://github.com/BozemenOfficial/novashop#readme)
-
-### 🖥️ [Portfolio — персональный сайт](https://github.com/BozemenOfficial/portfolio)
-
-Сайт для знакомства со мной, моими навыками и работами. В репозитории есть версии интерфейса на русском, украинском и английском, адаптивная вёрстка и анимации.
-
-[![Предпросмотр портфолио](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
-
-**Пример сценария:** посетитель выбирает язык, знакомится с проектом NovaShop и переходит к исходному коду или контактам.
-
-**Что демонстрирует:** React, TypeScript, CSS, организация контента и многоязычный интерфейс.
-
-[Открыть репозиторий →](https://github.com/BozemenOfficial/portfolio)
-
 ## 🌱 Сейчас в фокусе
 
 Развиваюсь как front-end разработчик: практикую вёрстку и JavaScript, работаю с React и TypeScript. NovaShop и персональный сайт показывают мой опыт в интерфейсах и полноценных веб-приложениях.
