@@ -26,9 +26,9 @@
 
 ## ✨ В разработке
 
-### 🖥️ [CoCClansBot — Бот для кланов Clash of Clans. Синхронизация с Telegram, профили, статистика и многое другое](https://github.com/BozemenOfficial/CoCClansBot)
+### 🖥️ [CoCClansBot — Бот для кланов Clash of Clans](https://github.com/BozemenOfficial/CoCClansBot)
 
-Telegram-Бот для глав кланов в Clash of Clans (CoC) в Telegram.
+Telegram-Бот для глав кланов в Clash of Clans (CoC) в Telegram. Синхронизация с Telegram, профили, статистика и многое другое.
 
 [Открыть репозиторий →](https://github.com/BozemenOfficial/CoCClansBot)
 
