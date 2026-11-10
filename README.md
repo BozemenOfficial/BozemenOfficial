@@ -35,7 +35,7 @@ Telegram-Бот для глав кланов в Clash of Clans (CoC) в Telegram
 <h2 align="center">🧰 Мой стек</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker,grammY&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker, grammY" />
 </p>
 
 ## 🌱 Сейчас в фокусе
