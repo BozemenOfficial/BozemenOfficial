@@ -32,6 +32,26 @@ Telegram-Бот для глав кланов в Clash of Clans (CoC) в Telegram
 
 [Открыть репозиторий →](https://github.com/BozemenOfficial/CoCClansBot)
 
+### 🚀 [Traflume — платформа для Telegram](https://t.me/TraflumeBot)
+
+Traflume помогает продвигать каналы, чаты и ботов в Telegram и монетизировать аудиторию ботов. Я работаю над платформой в команде в роли разработчика.
+
+<p align="center">
+  <a href="https://t.me/TraflumeBot"><img src="https://raw.githubusercontent.com/BozemenOfficial/portfolio/22f618ca4fbb86af86c7922e0a34992d2ddfb160/public/traflume-preview.jpg" width="700" alt="Скриншот главной страницы Traflume" /></a>
+</p>
+
+**Мой вклад**
+
+- Разрабатываю новые функции и дорабатываю существующие пользовательские сценарии.
+- Воспроизвожу ошибки, выясняю их причины и проверяю исправления.
+- Работаю над защитой данных и исправляю проблемы безопасности.
+- Оптимизирую код и устраняю причины сбоев, чтобы сервис работал стабильнее.
+- Разбираю технические обращения, поддерживаю работу сервиса и участвую в его развитии.
+
+**Статус — в активной разработке.**
+
+[Открыть Traflume в Telegram →](https://t.me/TraflumeBot)
+
 <h2 align="center">🧰 Мой стек</h2>
 
 <p align="center">
