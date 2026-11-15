@@ -58,6 +58,10 @@ Traflume помогает продвигать каналы, чаты и бот�
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,python,sqlite,vscode,tailwind,docker,&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker," />
 </p>
 
+<p align="center">
+  Разработка Telegram-ботов на <a href="https://grammy.dev/">grammY</a>
+</p>
+
 ## 🌱 Сейчас в фокусе
 
 Работаю над Traflume: постепенно развиваю проект, уделяю внимание интерфейсу, деталям и удобству использования.
