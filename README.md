@@ -55,12 +55,22 @@ Traflume помогает продвигать каналы, чаты и бот�
 <h2 align="center">🧰 Мой стек</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,npm,python,sqlite,vscode,tailwind,docker,&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Git, GitHub, npm, Python, SQLite, VS Code, Tailwind CSS, Docker," />
-</p>
-
-<p align="center">
-  <a href="https://grammy.dev/"><img src="https://raw.githubusercontent.com/grammyjs/website/main/logos/Y-fit.svg" width="40" height="40" alt="Логотип grammY" /></a><br />
-  Разработка Telegram-ботов на <a href="https://grammy.dev/">grammY</a>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <a href="https://grammy.dev/"><img src="https://raw.githubusercontent.com/grammyjs/website/main/logos/Y.svg" width="48" height="48" alt="grammY" /></a>
 </p>
 
 ## 🌱 Сейчас в фокусе
