@@ -59,6 +59,7 @@ Traflume помогает продвигать каналы, чаты и бот�
 </p>
 
 <p align="center">
+  <a href="https://grammy.dev/"><img src="https://raw.githubusercontent.com/grammyjs/website/main/logos/Y-fit.svg" width="40" height="40" alt="Логотип grammY" /></a><br />
   Разработка Telegram-ботов на <a href="https://grammy.dev/">grammY</a>
 </p>
 
