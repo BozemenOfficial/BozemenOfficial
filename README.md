@@ -18,7 +18,7 @@
 
 Сайт для знакомства со мной, моими навыками и работами.
 
-[![Предпросмотр портфолио](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://github.com/BozemenOfficial/portfolio)
+[![Предпросмотр портфолио](https://raw.githubusercontent.com/BozemenOfficial/portfolio/main/public/og.png)](https://bozemenofficial.github.io/portfolio/)
 
 
 
